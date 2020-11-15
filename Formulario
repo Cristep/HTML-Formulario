@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<div class=" bg-dark">
+    <img class="card-img-top" src="Formulario.png" alt="">
+    <div class="card-body">
+
+    </div>
+
+    <body background="color:#FF0000">
+
+        <head>
+            <title>Formularios en HTMLS</title>
+            <meta charset='utf-8 '>
+        </head>
+
+        <body>
+            <form>
+
+
+           
+
+                    Nombre: <input type="text"> <br> <br> correo: <input type="email"> <br> <br> Url: <input type="url"> <br> <br> Buscar: <input type="search"> <br> <br> Numero de Telefono: <input type="tel"> <br> <br> Edad: <input type="number"> <br>                    <br> Edad:
+                    <input type="range"> <br> <br> Fecha de nacimiento <input type="date"> <br> <br> Mes <input type="month"> <br> <br> Semana <input type="week"> <br> <br> Color Favorito : <input type="color"> <br> <br>
+
+
+
+                    <form method="get" action="https://copycode2020.blogspot.com/">
+
+                        <input type="text" name="texto1" value="Valor por defecto" /><br> <br> />
+
+                        <input type="checkbox" name="condiciones" checked="checked" /> Acepto las condiciones<br> <br> />
+
+                        <input type="reset" value="Restablecer todos los campos a su valor predeterminado" /> <br> <br>
+
+                    </form>
+
+                    <form method="get" action="https://copycode2020.blogspot.com/">
+
+                        <input type="submit" value="Enviar este formulario" />
+                        <br> <br>
+
+                    </form>
+
+</div>
+
+</form>
+</body>
+
+</html>
